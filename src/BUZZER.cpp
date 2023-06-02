@@ -1,6 +1,5 @@
 #include "Arduino.h"
 #include "BUZZER.h"
-#include <string.h>
 
 void Buzzer::attachBuzzer(unsigned int buzzerPin /* Input pin for buzzer */)
 {
